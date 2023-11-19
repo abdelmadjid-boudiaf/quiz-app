@@ -13,6 +13,7 @@ const FinalScreen = () => {
     dispatch(handleDegreeChange(""))
     navigate('/')
   }
+  // finalScreen
   return (
     <Box mt={30}>
       <Typography fontWeight="bold" mb={3} variant="h3" color={"green"}>
